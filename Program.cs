@@ -24,3 +24,9 @@ int jeong2 = 92;
 int jeong3 = 98;
 int jeong4 = 100;
 int jeong5 = 97;
+
+Console.WriteLine("Student\tGrade");
+Console.WriteLine("Sophia\t" + (sophia1 + sophia2 + sophia3 + sophia4 + sophia5) / 5m+" A");
+Console.WriteLine("Nicolas\t" + (nicolas1 + nicolas2 + nicolas3 + nicolas4 + nicolas5) / 5m + " B");
+Console.WriteLine("Zahirah\t" + (zahirah1 + zahirah2 + zahirah3 + zahirah4 + zahirah5) / 5m + " B");
+Console.WriteLine("Jeong\t" + (jeong1 + jeong2 + jeong3 + jeong4 + jeong5) / 5m + " A");
