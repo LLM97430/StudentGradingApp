@@ -25,7 +25,7 @@ int jeong3 = 98;
 int jeong4 = 100;
 int jeong5 = 97;
 
-int sophiaSum = 0;
+int sophiaSum = sophia1 + sophia2 + sophia3 + sophia4 + sophia5;
 int nicolasSum = 0;
 int zahirahSum = 0;
 int jeongSum = 0;
