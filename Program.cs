@@ -1,8 +1,4 @@
 ﻿// initialize variables - graded assignments 
-decimal sophiaScore;
-decimal nicolasScore;
-decimal zahirahScore;
-decimal jeongScore;
 
 int currentAssignments = 5;
 
